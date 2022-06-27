@@ -1,0 +1,20 @@
+body{
+    margin:5cm 7cm;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#destaque{
+    color:red;
+}
+
+#blocodetexto{
+    border-left:solid;
+    border-left-width: 5px;
+    border-left-color:red;
+    margin:1cm;
+}
+
+#subtitulo{
+    color:gray;
+    
+}
